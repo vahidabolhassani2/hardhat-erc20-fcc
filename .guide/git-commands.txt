@@ -1,3 +1,10 @@
+# installing github CLI: gh
+winget install --id GitHub.cli
+
+# remote repository creation
+gh repo create hardhat-erc20-fcc --public --source=. --remote=origin
+
+
 # git commands
 # initialize git (if not already)
 git init
