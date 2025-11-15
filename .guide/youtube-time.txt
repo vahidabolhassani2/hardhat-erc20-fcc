@@ -1,2 +1,8 @@
 Lesson 12-Hardhat ERC20
 https://youtu.be/gyMwXuJrbJQ?t=68364
+
+Last seen:
+https://youtu.be/gyMwXuJrbJQ?t=68720
+
+Lesson 13-Defi:
+https://youtu.be/gyMwXuJrbJQ?t=69390

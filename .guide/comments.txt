@@ -2,3 +2,6 @@ EIP: Ethereum Improvement Proposal
 ERC: Ethereum Request for Comments (BEP, PEP)
 
 https://ethereum.org/developers/docs/standards/tokens/erc-20/
+
+https://eips.ethereum.org/
+https://eips.ethereum.org/EIPS/eip-20
